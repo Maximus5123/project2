@@ -1,3 +1,0 @@
-# This is a YAML configuration file
-I have used praw library in this project. 
-import praw  
